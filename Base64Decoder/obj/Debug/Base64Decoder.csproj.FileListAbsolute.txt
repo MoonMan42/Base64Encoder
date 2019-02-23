@@ -1,0 +1,10 @@
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.exe.config
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.exe
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\bin\Debug\Base64Decoder.pdb
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.Form1.resources
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.Properties.Resources.resources
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.exe
+C:\Users\Matt\Desktop\Workshop\C#\Base64Decoder\Base64Decoder\obj\Debug\Base64Decoder.pdb
